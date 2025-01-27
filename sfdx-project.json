@@ -1,0 +1,44 @@
+{
+  "packageDirectories": [
+    {
+      "path": "sfdx-source/rpbp",
+      "default": true,
+      "dependencies": [
+        {
+          "package": "reference-fflib-apex-mocks@1.2.0-1"
+        },
+        {
+          "package": "reference-fflib-apex-common@1.1.0-2"
+        },
+        {
+          "package": "reference-force-di@1.2.0-1"
+        },
+        {
+          "package": "reference-at4dx@1.1.0-1"
+        }
+      ]
+    },
+    {
+      "path": "sfdx-source/unpackaged",
+      "default": false
+    },
+    {
+      "path": "sfdx-source/untracked",
+      "default": false
+    }
+  ],
+  "name": "rpbp",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "reference-at4dx": "0Ho1T000000PAsmSAG",
+    "reference-fflib-apex-mocks": "0Ho1T000000PAsXSAW",
+    "reference-fflib-apex-common": "0Ho1T000000PAscSAG",
+    "reference-force-di": "0Ho1T000000PAshSAG",
+    "reference-at4dx@1.1.0-1": "04tHs000000qTj4IAE",
+    "reference-fflib-apex-mocks@1.2.0-1": "04tHs000000qTipIAE",
+    "reference-fflib-apex-common@1.1.0-2": "04tHs000000qTizIAE",
+    "reference-force-di@1.2.0-1": "04tHs000000qTikIAE"
+  }
+}

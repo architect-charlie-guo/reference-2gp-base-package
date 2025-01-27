@@ -1,0 +1,9 @@
+{
+    "orgName": "reference-project-base-package",
+    "edition": "Enterprise",
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        }
+    }
+}
